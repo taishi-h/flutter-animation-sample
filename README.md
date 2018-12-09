@@ -1,6 +1,10 @@
 # flutter_animation_sample
 
-A new Flutter application.
+A Flutter application sample for animation.
+
+## animation taped by button / whole screen
+https://raw.github.com/wiki/taishi-h/flutter-animation-sample/images/animation_button.gif
+https://raw.github.com/wiki/taishi-h/flutter-animation-sample/images/animation_screen.gif
 
 ## Getting Started
 
