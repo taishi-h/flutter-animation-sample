@@ -3,8 +3,12 @@
 A Flutter application sample for animation.
 
 ## animation taped by button / whole screen
-https://raw.github.com/wiki/taishi-h/flutter-animation-sample/images/animation_button.gif
-https://raw.github.com/wiki/taishi-h/flutter-animation-sample/images/animation_screen.gif
+![button](https://raw.github.com/wiki/taishi-h/flutter-animation-sample/images/animation_button.gif)
+![screen](https://raw.github.com/wiki/taishi-h/flutter-animation-sample/images/animation_screen.gif)
+
+### sample code
+- [button](https://github.com/taishi-h/flutter-animation-sample/blob/master/lib/fade_in_with_button.dart)
+- [whole screen](https://github.com/taishi-h/flutter-animation-sample/blob/master/lib/fade_in_whole_screen.dart)
 
 ## Getting Started
 
